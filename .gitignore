@@ -1,0 +1,8 @@
+.venv/
+.venv\
+__pycache__/
+*.pyc
+.env
+.vscode/
+./run_problem.py
+*.txt
